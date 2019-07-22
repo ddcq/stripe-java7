@@ -4,7 +4,7 @@ You can sign up for a Stripe account at https://stripe.com.
 
 ## Requirements
 
-Java 1.8 or later.
+Java 1.7.
 
 ## Installation
 
@@ -14,8 +14,8 @@ Add this dependency to your project's POM:
 
 ```xml
 <dependency>
-  <groupId>com.stripe</groupId>
-  <artifactId>stripe-java</artifactId>
+  <groupId>ddcq</groupId>
+  <artifactId>stripe-java7</artifactId>
   <version>10.9.0</version>
 </dependency>
 ```
@@ -25,7 +25,7 @@ Add this dependency to your project's POM:
 Add this dependency to your project's build file:
 
 ```groovy
-compile "com.stripe:stripe-java:10.9.0"
+compile "ddcq:stripe-java7:10.9.0"
 ```
 
 ### Others

@@ -12,7 +12,6 @@ buildscript {
 plugins {
     id 'java'
     id 'maven'
-    id 'io.franzbecker.gradle-lombok' version '3.1.0'
     id "com.diffplug.gradle.spotless" version "3.23.1"
     id "net.ltgt.errorprone" version "0.8.1"
     id 'net.saliman.cobertura' version '2.6.1'
